@@ -1,0 +1,9 @@
+name: dghub_annotation
+description: A sample command-line application.
+version: 1.0.0
+
+environment:
+  sdk: ^3.3.4
+
+dev_dependencies:
+  very_good_analysis: ^5.1.0
